@@ -1,0 +1,28 @@
+# Obsidian-specific folder
+# This directory contains workspace settings, plugins, hotkeys, and themes
+# that are specific to your local setup and not part of the published content.
+.obsidian/
+
+# General macOS system files
+.DS_Store
+.AppleDouble
+.LSOverride
+._*
+.Spotlight-V100
+.Trashes
+
+# macOS file metadata
+# This file is created on network volumes (like SMB shares)
+:2e*
+
+# Icon file on macOS
+Icon?
+
+# Visual Studio Code editor configuration
+.vscode/
+
+# Common temporary and backup files
+*.swp
+*.swo
+*~
+*.tmp
